@@ -62,6 +62,7 @@ while old<75:
 print('你老了')
 print('最终')
 print(person)
+os.system('pause')
 
 
 
